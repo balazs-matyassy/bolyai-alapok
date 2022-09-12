@@ -10,6 +10,9 @@ public class Main {
 
     public static void main(String[] args) {
         // try-with-resources (try speciális esete)
+        // FileReader csak karakterenként tud olvasni fájlból (nem felhasználóbarát)
+        // becsomagoljuk egy BufferedReaderbe, az képes pl. soronként olvasni (de sok egyéb plusz funkciót is nyújt)
+        // a BufferedReader "összegyűjti" a karaktereket, és soronként adja vissza
         try (BufferedReader reader = new BufferedReader(new FileReader("uzemanyag.txt"))) {
             // 1. fájl beolvasása
             // 2. adatok feldolgozása
@@ -40,6 +43,21 @@ public class Main {
 
             // 3. feladat
             System.out.printf("3. feladat: Változások száma: %d\n", arfolyamok.size());
+
+            // 4. feladat (minimum keresés)
+            // lista első eleme is jó lenne +végtelen helyett
+            int minKulonbseg = Integer.MAX_VALUE;
+
+            // for-each
+            for (Arfolyam arfolyam : arfolyamok) {
+                int kulonbseg = Math.abs(arfolyam.benzin - arfolyam.dizel);
+
+                if (kulonbseg < minKulonbseg) {
+                    minKulonbseg = kulonbseg;
+                }
+            }
+
+            System.out.printf("4. feladat: A legkisebb különbség: %d\n", minKulonbseg);
         } catch (IOException e) {
             e.printStackTrace();
         }
