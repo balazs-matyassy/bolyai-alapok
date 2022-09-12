@@ -58,6 +58,19 @@ public class Main {
             }
 
             System.out.printf("4. feladat: A legkisebb különbség: %d\n", minKulonbseg);
+
+            // 5. feladat (számlálás)
+            int szamlalo = 0;
+
+            for (Arfolyam arfolyam : arfolyamok) {
+                int kulonbseg = Math.abs(arfolyam.benzin - arfolyam.dizel);
+
+                if (kulonbseg == minKulonbseg) {
+                    szamlalo++; // szamlalo += 1;
+                }
+            }
+
+            System.out.printf("5. feladat: A legkisebb különbség előfordulása: %d\n", szamlalo);
         } catch (IOException e) {
             e.printStackTrace();
         }

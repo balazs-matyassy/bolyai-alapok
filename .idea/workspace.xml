@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 2. + 3. feladat">
+    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 4. feladat">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bolyai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolyai/Main.java" afterDir="false" />
     </list>
@@ -78,7 +78,7 @@
       <updated>1662985297853</updated>
       <workItem from="1662985310593" duration="235000" />
       <workItem from="1662985968097" duration="5000" />
-      <workItem from="1662986126219" duration="3591000" />
+      <workItem from="1662986126219" duration="4204000" />
     </task>
     <task id="LOCAL-00001" summary="balazs-matyassy: Arfolyam">
       <created>1662987291482</created>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662988990342</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="balazs-matyassy: 4. feladat">
+      <created>1662989824917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662989824917</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="balazs-matyassy: Arfolyam" />
     <MESSAGE value="balazs-matyassy: 2. + 3. feladat" />
-    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: 2. + 3. feladat" />
+    <MESSAGE value="balazs-matyassy: 4. feladat" />
+    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: 4. feladat" />
   </component>
 </project>
