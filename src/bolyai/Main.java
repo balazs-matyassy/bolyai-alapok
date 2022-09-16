@@ -3,6 +3,7 @@ package bolyai;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -30,6 +31,8 @@ public class Main {
             // 2. feladat
             String line;
 
+            // ha a try blokkob belül keletkezik egy hiba,
+            // akkor is lezárásra kerülnek az erőforrások
             try (BufferedReader reader = new BufferedReader(new FileReader("uzemanyag.txt"))) {
                 while ((line = reader.readLine()) != null) {
                     String[] cellak = line.split(";");
@@ -90,6 +93,13 @@ public class Main {
                 System.out.println("6. feladat: Nem volt változás szökőnapon!");
             }
 
+            // 7. feladat
+            try (PrintWriter writer = new PrintWriter("euro.txt")) {
+                for (Arfolyam arfolyam : arfolyamok) {
+                    writer.println(arfolyambolSor(arfolyam));
+                }
+            }
+
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -105,6 +115,14 @@ public class Main {
         return ev % 4 == 0
                 && honap == 2
                 && nap == 24;
+    }
+
+    // 7. feladat
+    private static String arfolyambolSor(Arfolyam arfolyam) {
+        double benzinEur = arfolyam.benzin / 307.7;
+        double dizelEur = arfolyam.dizel / 307.7;
+
+        return String.format("%s;%.2f;%.2f", arfolyam.datum, benzinEur, dizelEur);
     }
 
 }

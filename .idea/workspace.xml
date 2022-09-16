@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 6. feladat">
+    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 6. feladat (try + try-with resources)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bolyai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolyai/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +80,7 @@
       <workItem from="1662985968097" duration="5000" />
       <workItem from="1662986126219" duration="6343000" />
       <workItem from="1663306497916" duration="80000" />
-      <workItem from="1663307021698" duration="3464000" />
+      <workItem from="1663307021698" duration="4205000" />
     </task>
     <task id="LOCAL-00001" summary="balazs-matyassy: Arfolyam">
       <created>1662987291482</created>
@@ -116,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663310523920</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="balazs-matyassy: 6. feladat (try + try-with resources)">
+      <created>1663310840950</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663310840950</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +147,7 @@
     <MESSAGE value="balazs-matyassy: 4. feladat" />
     <MESSAGE value="balazs-matyassy: 5. feladat" />
     <MESSAGE value="balazs-matyassy: 6. feladat" />
-    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: 6. feladat" />
+    <MESSAGE value="balazs-matyassy: 6. feladat (try + try-with resources)" />
+    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: 6. feladat (try + try-with resources)" />
   </component>
 </project>
