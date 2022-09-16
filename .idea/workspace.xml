@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 6. feladat (try + try-with resources)">
+    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 7. feladat">
+      <change afterPath="$PROJECT_DIR$/euro.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bolyai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolyai/Main.java" afterDir="false" />
     </list>
@@ -30,19 +31,22 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EfSjfUkBnvgZ7QiR6lgvBBVfMa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Balázs/IdeaProjects/bolyai-alapok&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Balázs/IdeaProjects/bolyai-alapok"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Balázs\IdeaProjects\bolyai-alapok" />
@@ -80,7 +84,7 @@
       <workItem from="1662985968097" duration="5000" />
       <workItem from="1662986126219" duration="6343000" />
       <workItem from="1663306497916" duration="80000" />
-      <workItem from="1663307021698" duration="4205000" />
+      <workItem from="1663307021698" duration="4625000" />
     </task>
     <task id="LOCAL-00001" summary="balazs-matyassy: Arfolyam">
       <created>1662987291482</created>
@@ -124,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663310840950</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="balazs-matyassy: 7. feladat">
+      <created>1663311556784</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663311556784</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,12 +153,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="balazs-matyassy: Arfolyam" />
     <MESSAGE value="balazs-matyassy: 2. + 3. feladat" />
     <MESSAGE value="balazs-matyassy: 4. feladat" />
     <MESSAGE value="balazs-matyassy: 5. feladat" />
     <MESSAGE value="balazs-matyassy: 6. feladat" />
     <MESSAGE value="balazs-matyassy: 6. feladat (try + try-with resources)" />
-    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: 6. feladat (try + try-with resources)" />
+    <MESSAGE value="balazs-matyassy: 7. feladat" />
+    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: 7. feladat" />
   </component>
 </project>

@@ -1,9 +1,6 @@
 package bolyai;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,6 +12,9 @@ public class Main {
         // becsomagoljuk egy BufferedReaderbe, az képes pl. soronként olvasni (de sok egyéb plusz funkciót is nyújt)
         // a BufferedReader "összegyűjti" a karaktereket, és soronként adja vissza
         try {
+            // 8. feladat
+            BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
+
             // 1. fájl beolvasása
             // 2. adatok feldolgozása
             // 3. fájl írása
@@ -99,6 +99,16 @@ public class Main {
                     writer.println(arfolyambolSor(arfolyam));
                 }
             }
+
+            // 8. feladat
+            int evszam;
+
+            do {
+                // NEM println, a felhasználó írja az entert
+                System.out.print("8. feladat: Kérem adja meg az évszámot [2011..2016]: ");
+                line = console.readLine();
+                evszam = Integer.parseInt(line);
+            } while (evszam < 2011 || evszam > 2016);
 
         } catch (IOException e) {
             e.printStackTrace();
