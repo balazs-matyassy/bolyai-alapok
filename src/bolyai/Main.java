@@ -71,9 +71,38 @@ public class Main {
             }
 
             System.out.printf("5. feladat: A legkisebb különbség előfordulása: %d\n", szamlalo);
+
+            // 6. feladat (keresés)
+            boolean voltESzokonap = false;
+
+            for (Arfolyam arfolyam : arfolyamok) {
+                if (szokoNapE(arfolyam.datum)) {
+                    voltESzokonap = true;
+                    break; // befejezi a ciklust
+                }
+            }
+
+            if (voltESzokonap) {
+                System.out.println("6. feladat: Volt változás szökőnapon!");
+            } else {
+                System.out.println("6. feladat: Nem volt változás szökőnapon!");
+            }
+
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private static boolean szokoNapE(String datum) {
+        String[] reszek = datum.split("\\.");
+
+        int ev = Integer.parseInt(reszek[0]);
+        int honap = Integer.parseInt(reszek[1]);
+        int nap = Integer.parseInt(reszek[2]);
+
+        return ev % 4 == 0
+                && honap == 2
+                && nap == 24;
     }
 
 }
