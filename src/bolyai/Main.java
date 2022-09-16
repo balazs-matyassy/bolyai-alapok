@@ -13,7 +13,7 @@ public class Main {
         // FileReader csak karakterenként tud olvasni fájlból (nem felhasználóbarát)
         // becsomagoljuk egy BufferedReaderbe, az képes pl. soronként olvasni (de sok egyéb plusz funkciót is nyújt)
         // a BufferedReader "összegyűjti" a karaktereket, és soronként adja vissza
-        try (BufferedReader reader = new BufferedReader(new FileReader("uzemanyag.txt"))) {
+        try {
             // 1. fájl beolvasása
             // 2. adatok feldolgozása
             // 3. fájl írása
@@ -30,15 +30,17 @@ public class Main {
             // 2. feladat
             String line;
 
-            while ((line = reader.readLine()) != null) {
-                String[] cellak = line.split(";");
+            try (BufferedReader reader = new BufferedReader(new FileReader("uzemanyag.txt"))) {
+                while ((line = reader.readLine()) != null) {
+                    String[] cellak = line.split(";");
 
-                Arfolyam arfolyam = new Arfolyam();
-                arfolyam.datum = cellak[0];
-                arfolyam.benzin = Integer.parseInt(cellak[1]);
-                arfolyam.dizel = Integer.parseInt(cellak[2]);
+                    Arfolyam arfolyam = new Arfolyam();
+                    arfolyam.datum = cellak[0];
+                    arfolyam.benzin = Integer.parseInt(cellak[1]);
+                    arfolyam.dizel = Integer.parseInt(cellak[2]);
 
-                arfolyamok.add(arfolyam);
+                    arfolyamok.add(arfolyam);
+                }
             }
 
             // 3. feladat
