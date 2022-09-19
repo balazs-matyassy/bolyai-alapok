@@ -53,9 +53,16 @@ public class Main {
                     // döntő hozzáfűzése a lista végére
                     dontok.add(donto);
                 }
-
-
             }
+
+            /*
+                2. Adatok feldolgozása
+             */
+            // System.out.print: NEM formázott, NINCS sortörés
+            // System.out.println: NEM formázott, VAN sortörés
+            // System.out.printf: formázott, NINCS sortörés
+            System.out.printf("4. feladat: Döntők száma: %d\n", dontok.size());
+
         } catch (IOException e) {
             e.printStackTrace();
         }
