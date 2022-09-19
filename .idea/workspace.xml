@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 8. feladat">
-      <change afterPath="$PROJECT_DIR$/SuperBowl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bolyai/Donto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bolyai/Main.java" afterDir="false" />
+    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: skeleton">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bolyai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolyai/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2EfSjfUkBnvgZ7QiR6lgvBBVfMa" />
@@ -54,6 +57,14 @@
       <updated>1662985297853</updated>
       <workItem from="1662985310593" duration="1000" />
     </task>
+    <task id="LOCAL-00001" summary="balazs-matyassy: skeleton">
+      <created>1663583105992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663583105994</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,10 +72,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="skeleton" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="balazs-matyassy: skeleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: skeleton" />
   </component>
 </project>
