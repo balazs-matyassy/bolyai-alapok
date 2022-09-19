@@ -9,6 +9,8 @@ import java.util.List;
 
 public class Main {
 
+    // PIPELINE (csővezeték)
+    // 1. adatok beolvasása -> 2. adatok feldolgozása -> 3. adatok kiírása
     public static void main(String[] args) {
         // Ha bárhol történik hiba, akkor megszakad a try blokk,
         // és a catch blokkban folytatódik a program végrehajtása.

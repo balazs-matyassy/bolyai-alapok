@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 2. adatok feldolgozása">
+    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 3. adatok kiírása">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bolyai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolyai/Main.java" afterDir="false" />
     </list>
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663584620712</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="balazs-matyassy: 3. adatok kiírása">
+      <created>1663585242630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663585242631</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +115,7 @@
     <MESSAGE value="balazs-matyassy: skeleton" />
     <MESSAGE value="balazs-matyassy: 1. adatok beolvasása" />
     <MESSAGE value="balazs-matyassy: 2. adatok feldolgozása" />
-    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: 2. adatok feldolgozása" />
+    <MESSAGE value="balazs-matyassy: 3. adatok kiírása" />
+    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: 3. adatok kiírása" />
   </component>
 </project>
