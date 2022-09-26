@@ -137,6 +137,7 @@ public class Main {
              */
             // Írásra nyitunk meg egy fájlt.
             // Itt sincs hibakezelés (ebben az esetben a külső catch kezeli az esetleges hibákat).
+            // 7. feladat
             try (PrintWriter writer = new PrintWriter("SuperBowlNew.txt")) {
                 // Létezik HasMap<T> is. Kicsit gyorsabb, de nem rendezett.
                 Map<String, Integer> reszvetelekSzama = new TreeMap<>();

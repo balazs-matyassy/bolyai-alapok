@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: 3. adatok kiírása">
-      <change afterPath="$PROJECT_DIR$/src/bolyai/RomaiSorszam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: teljes feladatsor">
       <change beforePath="$PROJECT_DIR$/src/bolyai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolyai/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +25,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="88550a2e-2cd4-44ba-96de-7b3b055116c6" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -38,15 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Balázs/IdeaProjects/bolyai-alapok&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Balázs/IdeaProjects/bolyai-alapok"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Balázs\IdeaProjects\bolyai-alapok" />
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663585462153</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="balazs-matyassy: teljes feladatsor">
+      <created>1664199319924</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664199319924</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +170,7 @@
     <MESSAGE value="balazs-matyassy: 1. adatok beolvasása" />
     <MESSAGE value="balazs-matyassy: 2. adatok feldolgozása" />
     <MESSAGE value="balazs-matyassy: 3. adatok kiírása" />
-    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: 3. adatok kiírása" />
+    <MESSAGE value="balazs-matyassy: teljes feladatsor" />
+    <option name="LAST_COMMIT_MESSAGE" value="balazs-matyassy: teljes feladatsor" />
   </component>
 </project>
