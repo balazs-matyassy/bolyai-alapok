@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="457eeb16-6a03-4ec7-a245-2fd599513e31" name="Changes" comment="balazs-matyassy: teljes feladatsor">
-      <change beforePath="$PROJECT_DIR$/src/bolyai/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bolyai/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperBowlNew.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SuperBowlNew.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664199319924</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="balazs-matyassy: teljes feladatsor">
+      <created>1664199458281</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664199458281</updated>
+    </task>
+    <task id="LOCAL-00009" summary="balazs-matyassy: teljes feladatsor">
+      <created>1664199548958</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664199548958</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
