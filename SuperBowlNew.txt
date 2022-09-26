@@ -1,0 +1,56 @@
+Ssz;Dátum;Győztes;Eredmény;Vesztes;Nézőszám
+14.;1967.01.15.;Green Bay Packers (1);35-10;Kansas City Chiefs (1);61946
+14.;1968.01.14.;Green Bay Packers (2);33-14;Oakland Raiders (1);75546
+14.;1969.01.12.;New York Jets (1);16-7;Baltimore Colts (1);75389
+14.;1970.01.11.;Kansas City Chiefs (2);23-7;Minnesota Vikings (1);80562
+14.;1971.01.17.;Baltimore Colts (2);16-13;Dallas Cowboys (1);79204
+14.;1972.01.16.;Dallas Cowboys (2);24-3;Miami Dolphins (1);81023
+14.;1973.01.14.;Miami Dolphins (2);14-7;Washington Redskins (1);90182
+14.;1974.01.13.;Miami Dolphins (3);24-7;Minnesota Vikings (2);71882
+14.;1975.01.12.;Pittsburgh Steelers (1);16-6;Minnesota Vikings (3);80997
+14.;1976.01.18.;Pittsburgh Steelers (2);21-17;Dallas Cowboys (3);80187
+14.;1977.01.09.;Oakland Raiders (2);32-14;Minnesota Vikings (4);103438
+14.;1978.01.15.;Dallas Cowboys (4);27-10;Denver Broncos (1);76400
+14.;1979.01.21.;Pittsburgh Steelers (3);35-31;Dallas Cowboys (5);79484
+14.;1980.01.20.;Pittsburgh Steelers (4);31-19;Los Angeles Rams (1);103985
+14.;1981.01.25.;Oakland Raiders (3);27-10;Philadelphia Eagles (1);76135
+14.;1982.01.24.;San Francisco 49ers (1);26-21;Cincinnati Bengals (1);81270
+14.;1983.01.30.;Washington Redskins (2);27-17;Miami Dolphins (4);103667
+14.;1984.01.22.;Los Angeles Raiders (1);38-9;Washington Redskins (3);72920
+14.;1985.01.20.;San Francisco 49ers (2);38-16;Miami Dolphins (5);84059
+14.;1986.01.26.;Chicago Bears (1);46-10;New England Patriots (1);73818
+14.;1987.01.25.;New York Giants (1);39-20;Denver Broncos (2);101063
+14.;1988.01.31.;Washington Redskins (4);42-10;Denver Broncos (3);73302
+14.;1989.01.22.;San Francisco 49ers (3);20-16;Cincinnati Bengals (2);75129
+14.;1990.01.28.;San Francisco 49ers (4);55-10;Denver Broncos (4);72919
+14.;1991.01.27.;New York Giants (2);20-19;Buffalo Bills (1);73813
+14.;1992.01.26.;Washington Redskins (5);37-24;Buffalo Bills (2);63130
+14.;1993.01.31.;Dallas Cowboys (6);52-17;Buffalo Bills (3);98374
+14.;1994.01.30.;Dallas Cowboys (7);30-13;Buffalo Bills (4);72817
+14.;1995.01.29.;San Francisco 49ers (5);49-26;San Diego Chargers (1);74107
+14.;1996.01.28.;Dallas Cowboys (8);27-17;Pittsburgh Steelers (5);76347
+14.;1997.01.26.;Green Bay Packers (3);35-21;New England Patriots (2);72301
+14.;1998.01.25.;Denver Broncos (5);31-24;Green Bay Packers (4);68912
+14.;1999.01.31.;Denver Broncos (6);34-19;Atlanta Falcons (1);74803
+14.;2000.01.30.;St. Louis Rams (1);23-16;Tennessee Titans (1);72625
+14.;2001.01.28.;Baltimore Ravens (1);34-7;New York Giants (3);71921
+14.;2002.02.03.;New England Patriots (3);20-17;St. Louis Rams (2);72922
+14.;2003.01.26.;Tampa Bay Buccaneers (1);48-21;Oakland Raiders (4);67603
+14.;2004.02.01.;New England Patriots (4);32-29;Carolina Panthers (1);71525
+14.;2005.02.06.;New England Patriots (5);24-21;Philadelphia Eagles (2);78125
+14.;2006.02.05.;Pittsburgh Steelers (6);21-10;Seattle Seahawks (1);68206
+14.;2007.02.04.;Indianapolis Colts (1);29-17;Chicago Bears (2);74512
+14.;2008.02.03.;New York Giants (4);17-14;New England Patriots (6);71101
+14.;2009.02.01.;Pittsburgh Steelers (7);27-23;Arizona Cardinals (1);70774
+14.;2010.02.07.;New Orleans Saints (1);31-17;Indianapolis Colts (2);74059
+14.;2011.02.06.;Green Bay Packers (5);31-25;Pittsburgh Steelers (8);103219
+14.;2012.02.05.;New York Giants (5);21-17;New England Patriots (7);68658
+14.;2013.02.03.;Baltimore Ravens (2);34-31;San Francisco 49ers (6);71024
+14.;2014.02.02.;Seattle Seahawks (2);43-8;Denver Broncos (7);82529
+14.;2015.02.01.;New England Patriots (8);28-24;Seattle Seahawks (3);70288
+14.;2016.02.07.;Denver Broncos (8);24-10;Carolina Panthers (2);71088
+14.;2017.02.05.;New England Patriots (9);34-28;Atlanta Falcons (2);70807
+14.;2018.02.04.;Philadelphia Eagles (3);41-33;New England Patriots (10);67612
+14.;2019.02.03.;New England Patriots (11);13-3;Los Angeles Rams (2);70081
+14.;2020.02.02.;Kansas City Chiefs (3);31-20;San Francisco 49ers (7);62417
+14.;2021.02.07.;Tampa Bay Buccaneers (2);31-9;Kansas City Chiefs (4);24835
