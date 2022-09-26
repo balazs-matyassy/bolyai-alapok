@@ -149,7 +149,7 @@ public class Main {
                 // Egy gyűjtemény (List<T>, Set<T> vagy T[] (tömb)) minden elemét értékenként bejárunk.
                 // A feldolgozáshoz nincs szükség az indexre.
                 for (Donto donto : dontok) {
-                    romaiSorszam = new RomaiSorszam(maxNezoszam.sorszam);
+                    romaiSorszam = new RomaiSorszam(donto.sorszam);
                     arabSorszam = romaiSorszam.getArabSsz();
                     // régi érték + 1 vagy 1 (ha még nem volt régi érték)
                     int gyoztesSzereplesek = reszvetelekSzama.getOrDefault(donto.gyoztes, 0) + 1;
